@@ -1,14 +1,24 @@
 {
-    "doors": [
-        {
-            "id": "1",
-            "name": "Front Door",
-            "status": "open"
-        },
-        {
-            "id": "2",
-            "name": "Back Door",
-            "status": "closed"
-        }
-    ]
+  "doors": [
+    {
+      "id": "2",
+      "name": "Back Door",
+      "status": "felldown"
+    },
+    {
+      "id": "3",
+      "name": "Pinky Door",
+      "status": "open"
+    },
+    {
+      "id": "4",
+      "name": "srinidhi ",
+      "status": "open"
+    },
+    {
+      "id": "5",
+      "name": "kushal baby door",
+      "status": "felldown"
+    }
+  ]
 }
